@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@fastify/formbody": "^7.4.0",
+    "@fastify/static": "^7.0.4",
+    "@fastify/view": "^9.1.0",
+    "axios": "^1.7.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "fastify": "^4.28.0",
+    "handlebars": "^4.7.8"
+  }
+}
